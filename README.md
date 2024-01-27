@@ -32,7 +32,7 @@ MongoDB Atlas account (for database)
 <ol>
   <li>Clone the repository: </br>
   ```
-  git clone https://github.com/your-username/todo-app.git
+  git clone https://github.com/khalilahmed97/TaskManagerApp.git
   ```
 </li>
 <li>Navigate to the directory:
