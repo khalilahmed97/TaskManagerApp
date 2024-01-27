@@ -1,5 +1,5 @@
 # Task Management App
-The Task Management Application built with a MERN stack (MongoDB, Express.js, React, Node.js).
+The Task Management Application is built with a MERN stack (MongoDB, Express.js, React, Node.js).
 The app allows users to create, manage, and organize their Tasks.
 
 
@@ -73,6 +73,7 @@ MongoDB Atlas account (for database)
 <li> Set Environment Variables (.env):
 ```
   TOKEN=`YOUR JWT TOKEN`
+  
   DB_URL=`Your MongoDB Url`
 ```
 </li>
