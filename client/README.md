@@ -15,11 +15,8 @@ This is the client-side code for the Todo App. It is a React application that al
     <li>Redux</li>
     <li>React Router</li>
     <li>Axios for API requests</li>
-    <li>Bootstrap</li>
     <li>React Hook</li>
-    <li>React Icons</li>
-    <li>Styled Components</li>
-    <li>ESLint</li>
+    <li>Material UI</li>
 </ol>
 
 ## Folder Structure
