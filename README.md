@@ -26,7 +26,7 @@ N - Node js </br>
 
 ## Prerequisites
 Node.js &
-MongoDB Atlas account (for database)
+MongoDB Atlas account or MongoDb Compass or MongoDB Shell (for database)
 
 ## Installation and Setup
 <ol>
