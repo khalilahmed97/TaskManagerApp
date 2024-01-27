@@ -32,7 +32,7 @@ The server provides the following API endpoints:
     <li>dotenv for environment variables</li>
     <li>cors for cross origin resource sharing</li>
     <li>nodemon for hot reloading</li>
-    <li>postman for testing the api endpoints</li>
+    
 </ul>
 
 ## Folder Structure
